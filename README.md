@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ijne!
 
-<!--
-**Ijne/Ijne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a developer passionate about Go, with a strong focus on backend systems, web applications.
 
-Here are some ideas to get you started:
+## ⚡ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Go (Golang):** My main language for backend development, CLI tools, and scalable infrastructure.
+
+## 🌐 Web Projects
+
+I've been part of talented teams building Python-based web applications. Working together has helped us deliver user-friendly and reliable solutions.
+
+## 🛠️ Selected Repositories
+
+- [GoBlog](https://github.com/Ijne/GoBlog): Blogging platform built with Go.
+- [MyCLI](https://github.com/Ijne/MyCLI): Custom command-line tool in Go.
+- [Mebel](https://github.com/Ijne/MyCLI): Simple webapp with flask.
+- [TheWorld](https://github.com/Ijne/MyCLI): Simple pygame Game.
+
+## 🤝 Let's Connect
+
+I'm always open for collaboration, especially on web or game projects in Go and Python. Feel free to reach out!
+
+---
+
+Thanks for stopping by!

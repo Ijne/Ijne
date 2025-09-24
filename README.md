@@ -14,8 +14,8 @@ I've been part of talented teams building Python-based web applications. Working
 
 - [GoBlog](https://github.com/Ijne/GoBlog): Blogging platform built with Go.
 - [MyCLI](https://github.com/Ijne/MyCLI): Custom command-line tool in Go.
-- [Mebel](https://github.com/Ijne/MyCLI): Simple webapp with flask.
-- [TheWorld](https://github.com/Ijne/MyCLI): Simple pygame Game.
+- [Mebel](https://github.com/Ijne/WEB_project): Simple webapp with flask.
+- [TheWorld](https://github.com/Ijne/Game-project): Simple pygame Game.
 
 ## 🤝 Let's Connect
 

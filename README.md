@@ -7,7 +7,7 @@
 
 ## Проекты
 
-- [ISKRA] (https://github.com/Ijne/ISKRA): Дейтинг в мессенджере MAX
+- [ISKRA](https://github.com/Ijne/ISKRA): Дейтинг в мессенджере MAX
 - [GoBlog](https://github.com/Ijne/GoBlog): Платформа для ведения блогов на Go.
 - [MyCLI](https://github.com/Ijne/MyCLI): Custom command-line tool in Go.
 - [Mebel](https://github.com/Ijne/WEB_project): Simple webapp with flask.

@@ -1,26 +1,16 @@
-# 👋 Hi, I'm Ijne!
+# Привет, я Ваня
 
-Welcome to my GitHub! I'm a developer passionate about Go, with a strong focus on backend systems, web applications.
+## Чем я занимаюсь
 
-## ⚡ What I Do
+- Пишу код, сейчас на Go, но так-то могу еще на Python
+- Разработал дейтинг длямессенджера MAX
 
-- **Go (Golang):** My main language for backend development, CLI tools, and scalable infrastructure.
+## Проекты
 
-## 🌐 Web Projects
-
-I've been part of talented teams building Python-based web applications. Working together has helped us deliver user-friendly and reliable solutions.
-
-## 🛠️ Selected Repositories
-
-- [GoBlog](https://github.com/Ijne/GoBlog): Blogging platform built with Go.
+- [ISKRA] (https://github.com/Ijne/ISKRA): Дейтинг в мессенджере MAX
+- [GoBlog](https://github.com/Ijne/GoBlog): Платформа для ведения блогов на Go.
 - [MyCLI](https://github.com/Ijne/MyCLI): Custom command-line tool in Go.
 - [Mebel](https://github.com/Ijne/WEB_project): Simple webapp with flask.
 - [TheWorld](https://github.com/Ijne/Game-project): Simple pygame Game.
 
-## 🤝 Let's Connect
-
-I'm always open for collaboration, especially on web or game projects in Go and Python. Feel free to reach out!
-
----
-
-Thanks for stopping by!
+## ОТкрыт к предложениям

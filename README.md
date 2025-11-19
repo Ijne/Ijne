@@ -3,7 +3,7 @@
 ## Чем я занимаюсь
 
 - Пишу код, сейчас на Go, но так-то могу еще на Python
-- Разработал дейтинг длямессенджера MAX
+- Разработал дейтинг для мессенджера MAX
 
 ## Проекты
 
@@ -13,4 +13,4 @@
 - [Mebel](https://github.com/Ijne/WEB_project): Simple webapp with flask.
 - [TheWorld](https://github.com/Ijne/Game-project): Simple pygame Game.
 
-## ОТкрыт к предложениям
+## Открыт к предложениям

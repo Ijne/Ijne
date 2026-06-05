@@ -39,16 +39,6 @@
 
 ---
 
-### 📊 Статистика
-
-<div align="left">
-
-![Stats](https://streak-stats.demolab.com?user=Ijne&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
 ### 📈 Помимо рабочих задач
 
 - Решаю алгоритмические задачи — [LeetCode](https://leetcode.com/u/ijne/) , олимпиады
